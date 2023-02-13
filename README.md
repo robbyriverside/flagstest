@@ -1,5 +1,7 @@
 # Possible error in go-flags
 
+The help message is being printed twice.
+
 Steps to reproduce the error:
 
 ```bash
